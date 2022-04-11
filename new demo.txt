@@ -1,0 +1,1 @@
+Now you will upload the file. One thing, no need to initiate git on this folder, because this file is already intiated.
